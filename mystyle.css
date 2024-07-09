@@ -23,6 +23,28 @@ h3 {
 }
 /* download resume and name style  end */
 
+/* banner style started */
+.banner {
+    background-image: url(../resurse/assets/Hero-bg.png); 
+    width: 1200px;
+    height: 600px;
+   
+}
+img{
+   display: block;
+   margin: auto;
+}
+.content {
+    width: 1200px;
+   height: 200ppx;
+   
+   
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    margin-top: 60px;
+}
 
 
 
