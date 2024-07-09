@@ -1,3 +1,28 @@
-.test{
-    color: blue;
+/* download resume and name style */
+nav{
+display: flex;
+width: 1200px;
+gap: 650px;
+justify-content: center;
+margin-top: 30px;
 }
+h3 {
+    font-size: 17px;
+    margin-left: 30px;
+
+}
+.btn-resume {
+    border: solid black 1px;
+    padding: 5px ;
+   margin: 20px;
+   margin-right: 130spx;
+    color:  #0D1321;
+    font-size: 14px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+/* download resume and name style  end */
+
+
+
+
