@@ -135,8 +135,21 @@ button{
     border-radius: 5px;
     text-decoration: none;
     cursor: pointer;
-    
 }
+/* first section finished */
+/* second section stated */
+.second-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 70px;
+    gap: 70px;
+    margin-left: 150px;
+
+}
+/* second section finished */
 
 
 
