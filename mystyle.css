@@ -92,6 +92,21 @@ button{
     font-weight: bold ;
 }
 /* banner style end */
+/* why web development part started */
+.why-web{
+    height: 1400px;
+   width: 1120px;
+}
+.first-section {
+
+}
+.first-line {
+    text-align: center;
+    margin-top: 70px ;
+}
+.why-learn-web {
+    text-align: center; 
+}
 
 
 
