@@ -175,7 +175,62 @@ button{
     border-radius: 5px;
 }
 /* my Inspiration part finished */
-
+/* my current target */
+.my-target {
+    text-align: center;
+    margin-top: 100px;
+    font-size: small;
+    padding: 25px;
+    margin-bottom: 50px;
+}
+.all-logo {
+     display: flex;
+     gap: 20px;
+     margin: 50px 170px;
+}
+.html-logo {
+    background-color: rgba(241, 236, 236, 0.817) ;
+    width: 230px ;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+    text-align: left;
+    align-items: left;
+}
+    
+   
+.css-logo {
+    background-color: #ebf6ebc9 ;
+    width: 230px ;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+    text-align: left;
+    align-items: left;
+   
+}
+    
+.js-logo { 
+     background-color: rgba(249, 247, 247, 0.744);
+     width: 230px ;
+     height: 200px;
+     display: flex;
+     flex-direction: column;
+     padding-left: 15px;
+     text-align: left;
+     align-items: left;  
+    }
+    /* i am trying my best to set the img left top */
+    /* my current target is complete */
+.next-target {
+    text-align: center;
+    margin-top: 20px;
+    font-size: small;
+    padding: 25px;
+    margin-bottom: 5px;
+}
 
 
 
