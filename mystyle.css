@@ -145,11 +145,27 @@ button{
     width: 1000px;
     margin: 0 auto;
     margin-top: 70px;
-    gap: 70px;
+    gap: 20spx;
     margin-left: 150px;
 
 }
 /* second section finished */
+/* third section started */
+.third-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 70px;
+    gap: 150px;
+} 
+/* third section finished */
+
+
+
+
+
 
 
 
