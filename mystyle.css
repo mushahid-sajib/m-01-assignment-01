@@ -98,15 +98,46 @@ button{
    width: 1120px;
 }
 .first-section {
-
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 70px;
+    gap: 150px;
 }
 .first-line {
     text-align: center;
     margin-top: 70px ;
+
 }
 .why-learn-web {
     text-align: center; 
 }
+.change-the-world {
+   margin-left: 80px;
+   width: 400px;
+   margin-top: 5px;
+   text-align: left;
+}
+.get-knowledge{
+    text-align: left;
+    margin-left: 80px;
+    
+
+}
+#first-btn {
+    text-align: left;
+    margin-left: 80px;
+    padding: 10px 35px; 
+    font-size: 18px;
+    font-weight: bold ;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    
+}
+
 
 
 
