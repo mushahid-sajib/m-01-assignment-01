@@ -159,8 +159,22 @@ button{
     margin: 0 auto;
     margin-top: 70px;
     gap: 150px;
+    margin-bottom: 50px;
 } 
 /* third section finished */
+/* my Inspiration part started */
+.Inspiration {
+    text-align: center;
+    margin-top: 200px;
+    font-size: small;
+    padding: 25px;
+    margin-bottom: 50px;
+}  
+.video {
+    border: solid rgb(248, 243, 243)  20px;
+    border-radius: 5px;
+}
+/* my Inspiration part finished */
 
 
 
